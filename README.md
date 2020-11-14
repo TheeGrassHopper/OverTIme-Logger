@@ -15,9 +15,11 @@ Things you may want to cover:
     - Email summary to managers for approval
     - Needs to be documented if employee did not log overtime
 
-##UI:
+## UI:
     - Bootstrap -> formatting
 
+## refactor TODOS:
+- Refactor user association integration test in post_spec
     
 * Ruby version
 
